@@ -1,0 +1,27 @@
+{
+  "pages": [
+    {
+      "id": "Conversations",
+      "isDefault": false
+    },
+    {
+      "id": "Investors",
+      "isDefault": false
+    },
+    {
+      "id": "Page1",
+      "isDefault": true
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#C7F3E3",
+  "icon": "medical",
+  "unpublishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "isManualUpdate": false,
+  "deleted": false
+}
